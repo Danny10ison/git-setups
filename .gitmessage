@@ -1,0 +1,15 @@
+Short description of commit
+
+Longer explanation of the motivation for the change
+
+Fixes-Bug: Enter bug-id or delete line
+Implements-Requirement: Enter requirement-id or delete line
+
+#
+# Please enter the commit message for your changes. Lines starting 
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#       new file: another-file.txt( e.g )
+#
